@@ -1,5 +1,7 @@
 # csci596_final_project
 
+# Flow Computation Framework scheduler
+
 ## Problem
 For the current flow computation, the computation DAG has to be well defined. 
 However when the number of computers increasing, it wourl become harder and harder to schedule the resources. 
