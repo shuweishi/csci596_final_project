@@ -15,3 +15,4 @@ By introducing a self envolving network DAG, we could release the main node from
 
 ## Expected Result
 It would make fault torrlence much easier to handle. 
+For computing node with much different latency and power, it would not be identified as lost connection. 
