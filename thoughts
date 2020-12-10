@@ -4,4 +4,20 @@ devices could be gaming console. work station, personal computer, Iot devices.
 possible computing devices could be cpu, multicore cpus, gpu, fpga, other computing devices. 
 
 how to map the computing code to computing devices effeiciently?
+different computing devices have different charastics. 
 
+
+CPUs
+
+fast             slow
+high power       low power
+fault tollerent  not fault tollerent
+multiple core    single core
+
+
+GPU -- not unified
+nvidia  amd           intel
+cuda    not defined   not defined
+
+fpga -- not unified
+different brands
